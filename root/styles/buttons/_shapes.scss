@@ -1,1 +1,10 @@
 // Buttons for each shape
+
+
+.btn--skew {
+    transform: skew(-20deg);
+}
+
+.btn--radius {
+    border-radius: 25px;
+}
