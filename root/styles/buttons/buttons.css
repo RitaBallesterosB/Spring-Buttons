@@ -1,26 +1,26 @@
 .btn--color1 {
-  background-color: #00bbf9;
+  background-color: #0086B3;
   color: #ffffff;
   border: none;
   box-shadow: 0px 2px 9px 2px gray;
 }
 
 .btn--color2 {
-  background-color: #9b5de5;
+  background-color: #6A20C5;
   color: #ffffff;
   border: none;
   box-shadow: 0px 2px 9px 2px gray;
 }
 
 .btn--color3 {
-  background-color: #f15bb5;
+  background-color: #DA138A;
   color: #ffffff;
   border: none;
   box-shadow: 0px 2px 9px 2px gray;
 }
 
 .btn--color4 {
-  background-color: #fee440;
+  background-color: #CAAF01;
   color: #ffffff;
   border: none;
   box-shadow: 0px 2px 9px 2px gray;
@@ -31,4 +31,54 @@
   color: #ffffff;
   border: none;
   box-shadow: 0px 2px 9px 2px gray;
+}
+
+.btn--skew {
+  transform: skew(-20deg);
+}
+
+.btn--radius {
+  border-radius: 25px;
+}
+
+.btn--xs {
+  width: 137px;
+  height: 40px;
+  padding: 10px 24px;
+  min-width: 137px;
+  min-height: 40px;
+}
+
+.btn--sm {
+  width: 147px;
+  height: 43px;
+  padding: 10px 24px;
+  min-width: 137px;
+  min-height: 40px;
+}
+
+.btn--md {
+  width: 157px;
+  height: 46px;
+  padding: 10px 24px;
+  min-width: 137px;
+  min-height: 40px;
+}
+
+.btn--lg {
+  width: 169px;
+  height: 50px;
+  padding: 10px 24px;
+  min-width: 137px;
+  min-height: 40px;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+}
+.btn:hover {
+  opacity: 0.5;
 }/*# sourceMappingURL=buttons.css.map */
