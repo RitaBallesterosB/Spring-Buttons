@@ -4,3 +4,15 @@
 @use "./_colors.scss";
 @use "./_shapes.scss";
 @use "./_sizes.scss";
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+
+    &:hover {
+        opacity: 0.5;    
+    }
+}
