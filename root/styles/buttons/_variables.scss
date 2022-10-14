@@ -1,7 +1,38 @@
 // General variables 
-
+$wmin: 137px;
+$hmin: 40px;
+$gpadding: 10px 24px;
+$gshadow: (0px 2px 9px 2px gray);
 
 // Sizes variables
+$wxs: 137px;
+$wsm: 147px;
+$wmd: 157px;
+$wlg: 169px;
 
+$hxs: 40px;
+$hsm: 43px;
+$hmd: 46px;
+$hlg: 50px;
 
 // Colors variables
+$colord: #4a4c4d;
+$color1: #00bbf9;
+$color2: #9b5de5;
+$color3: #f15bb5;
+$color4: #fee440;
+$color5: #00f5d4;
+
+$bgd: $colord;
+$bg1: $color1;
+$bg2: $color2;
+$bg3: $color3;
+$bg4: $color4;
+$bg5: $color5;
+
+$fcd: #ffffff;
+$fc1: #ffffff;
+$fc2: #ffffff;
+$fc3: #ffffff;
+$fc4: #ffffff;
+$fc5: #ffffff;
